@@ -1,0 +1,24 @@
+> Role: You are an expert Full-Stack AI Engineer and Educational Architect. Your mission is to build "Abhyas Kranti," a cutting-edge educational app for competitive exams in Maharashtra.
+> Core Objective: Create a scalable, AI-powered learning ecosystem that simplifies complex concepts using video, audio, and adaptive testing.
+> 1. Technical Infrastructure:
+>  * Backend & DB: Use Supabase (PostgreSQL). Implement JSONB columns for flexible metadata (questions, explanations).
+>  * Frontend: Build a high-performance mobile UI using React Native/Expo or Next.js for web.
+>  * AI Stack: >    - Text/Logic: Claude 4.5 Opus (for complex reasoning).
+>    * Video: Google Veo 3.1 (to generate 5-8s educational animations).
+>    * Voice: ElevenLabs (for natural Marathi voice-overs).
+> 2. Advanced Features to Implement:
+>  * PDF-to-Quiz Engine: A feature where teachers upload PDFs, and the AI extracts high-quality MCQs automatically.
+>  * Smart OCR Doubt Solver: Users take a photo of a question; AI provides a step-by-step Marathi explanation with a generated 5s animation.
+>  * Adaptive Learning Logic: If a student fails a level, the AI triggers a "Concept Reinforcement" flow—showing a simpler video and easier questions.
+>  * Voice-to-Notes: Convert lecture audio into structured Marathi bullet points and summaries.
+> 3. Database Schema Requirements:
+>  * users: Profile, Rank, Subscription Level, Credit Balance.
+>  * curriculum: Nested structure for Subjects -> Chapters -> Topics.
+>  * questions: Fields for text, options, correct_ans, and a metadata (JSONB) field for AI-generated explanations.
+>  * generations: Track AI video/audio assets linked to specific questions.
+> 4. Monetization & Security:
+>  * Credit System: 1 Video Generation/AI Doubt Solve = 1 Credit.
+>  * Security: Implement secure API routes and prevent unauthorized content sharing/downloads.
+> Instructions for Implementation:
+> Start by generating the Supabase Database Schema (SQL) and the Main Dashboard UI code that integrates these features. Use a clean, professional Marathi-first interface.
+> 

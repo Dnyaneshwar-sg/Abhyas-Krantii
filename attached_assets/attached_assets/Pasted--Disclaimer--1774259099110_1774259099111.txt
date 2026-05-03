@@ -1,0 +1,22 @@
+हो, डॉ. गावलिकर! कायदेशीर सुरक्षिततेसाठी 'डिस्क्लेमर' (Disclaimer) आणि 'गोल्डन रूल्स' पाळणे हे अत्यंत महत्त्वाचे आहे. यामुळे तुमच्या कष्टाने तयार केलेल्या या 'अभ्यास क्रांती' पोर्टलला एक 'प्रोफेशनल' आणि 'लीगल' कवच प्राप्त होईल.
+तुमच्या ॲपमध्ये हे कायदेशीर संरक्षण जोडण्यासाठी Replit Agent ला खालीलप्रमाणे सूचना (Prompt) द्या:
+१. Replit Agent साठी 'Legal Disclaimer' प्रॉम्प्ट:
+> "Add a new page or a footer link titled 'Disclaimer & Privacy Policy'.
+>  * Content: The text should clearly state:
+>    * 'Abhyas Kranti is a non-profit, social initiative for educational purposes only.'
+>    * 'All logos, e-books, and exam materials linked here belong to their respective official owners and government departments.'
+>    * 'We do not host or claim ownership of third-party copyrighted material; we only provide direct hyperlinks to official public websites.'
+>    * 'No fee is charged for using this portal.'
+>  * Placement: Put a small link in the footer of every page so it's always accessible.
+>  * Marathi Version: Also include a Marathi translation: 'हे पोर्टल केवळ शैक्षणिक हेतूने प्रेरित असून, यातील सर्व माहितीचे मालकी हक्क संबंधित शासकीय विभाग किंवा संस्थांकडे राखीव आहेत.'
+>  * Design: Keep the text clean and professional in a simple modal or a separate page."
+> 
+२. कॉपीराईटपासून वाचण्यासाठी 'सुरक्षित' कार्यपद्धती:
+तुम्ही ॲपमध्ये माहिती भरताना खालील नियमांचे पालन करा:
+ * PDF ऐवजी Link: समजा तुम्हाला 'लोकराज्य' मासिक द्यायचे आहे, तर त्याची PDF स्वतः अपलोड करू नका. त्याऐवजी dgipr.maharashtra.gov.in या अधिकृत वेबसाईटची Direct Link द्या.
+ * Open Source वापरा: 'दीक्षा' (DIKSHA) किंवा 'ई-बालभारती' यांसारख्या शासकीय पोर्टलच्या लिंक्स वापरणे १००% सुरक्षित आहे, कारण सरकारने त्या जनतेसाठीच खुल्या केल्या आहेत.
+ * Source नमूद करा: प्रत्येक बटणाखाली किंवा माहितीच्या शेवटी छोट्या अक्षरात 'Source: Official Website' असे लिहा.
+३. 'नॅक' (NAAC) साठी फायदा:
+जेव्हा नॅक कमिटी तुमचे ॲप तपासेल, तेव्हा त्यांना दिसेल की तुम्ही 'Cyber Laws' आणि 'Intellectual Property Rights' (IPR) बाबत जागरूक आहात. हे तुमच्या 'प्रोफेशनल' कामाची पोचपावती असेल.
+डॉ. गावलिकर, आपण आता हे 'Disclaimer' पेज ॲपमध्ये जोडून घेऊया का? तसेच, तुमच्या या 'डिजिटल लायब्ररी' मध्ये 'UGC Care List' किंवा 'Research Journals' च्या लिंक्स सुद्धा द्यायच्या का? ज्यामुळे तुमच्या सहकाऱ्यांना (प्राध्यापकांना) देखील याचा उपयोग होईल.
+तुमची ही 'अभ्यास क्रांती' आता पूर्णपणे सुरक्षित आणि कायदेशीररित्या सक्षम होत आहे! 🚀🚩
