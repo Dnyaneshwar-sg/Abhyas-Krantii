@@ -1,0 +1,58 @@
+खाली **“अभ्यास क्रांती”** अॅपमध्ये *capstone submission साठी* कोणकोणत्या बाबी **आवश्यक** आहेत ते मी **Must-have (MVP)** आणि **Good-to-have** असे स्पष्ट दिले आहे. तुम्ही Must-have पूर्ण केल्या तर प्रोजेक्ट मजबूत दिसेल.
+
+### 1) Must-have (Capstone MVP साठी बिनधास्त आवश्यक)
+
+1. **Exam निवड (UPSC/MPSC) + Basic Onboarding**
+    - Days (demo: 10)
+    - Daily hours
+    - Subjects/Topics input (free text चालेल)
+2. **Generate Study Plan (LLM वापरून)**
+    - “Generate Plan” बटन
+    - Output **day-wise tasks** (3–6 tasks/day)
+    - Output **JSON schema** प्रमाणे (consistent)
+3. **Plan Preview UI**
+    - Day 1–10 view
+    - प्रत्येक दिवसात tasks: subject, topic, minutes, type (read/revise/mcq/test)
+4. **Save to Database (Supabase)**
+    - Plan save
+    - Tasks save
+    - User-wise data persistence (पुन्हा app उघडल्यावर plan दिसला पाहिजे)
+5. **Daily Tasks screen + Mark done**
+    - “Today” tasks list
+    - प्रत्येक task ला **Done** toggle/button
+6. **Progress Dashboard (basic पण visible)**
+    - Completed tasks / total tasks
+    - Backlog (pending tasks count)
+    - (Optional) streak
+7. **Error handling + UI states**
+    - Loading state (plan generate होताना)
+    - Empty state (plan नाही)
+    - Error state (LLM fail / DB fail)
+
+### 2) Good-to-have (स्कोअर/UX वाढवतात, पण MVP नंतर)
+
+1. **AI Tutor (Topic explain + 3 practice Qs)**
+    - एका topic वर “Explain in simple Marathi/English” + 3 MCQ/QA
+2. **Revision logic (simple)**
+    - दर 3ऱ्या दिवशी “Revise day” सारखे slots
+3. **Notes field per task**
+    - user छोट्या notes लिहू शकेल
+4. **Export**
+    - Plan PDF/CSV export किंवा share link
+
+### 3) “कापायच्या” गोष्टी (आत्ता टाळा, scope वाढतो)
+
+- Current affairs auto fetch
+- Full syllabus dataset + recommendations engine
+- Social leaderboard / groups / chat community
+- Fancy analytics
+
+### 4) तुमच्यासाठी मिनी-Implementation checklist (तुम्ही थेट add करू शकता)
+
+- [ ]  UPSC/MPSC dropdown
+- [ ]  Input: days=10, daily_hours, topics textarea
+- [ ]  LLM call → JSON plan
+- [ ]  Plan UI: day tabs/cards
+- [ ]  Supabase: plans + tasks tables
+- [ ]  Today tasks + mark done
+- [ ]  Progress bar (completed %)
